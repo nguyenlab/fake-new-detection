@@ -1,0 +1,15 @@
+This is instruction for the code of the paper "Memory networks for fake news detection"
+
+To run train a model, type: python + run_memnet.py
+
+Each run file conressponds to a variant of memory networks for 
+fake news detection
+Specifically,
+run_char_nn.py: char-level memory network
+run_single_att.py: Single attention network
+run_dual_att.py: Dual attention network
+run_memnet.py: char information
+run_memnet_2side.py:
+run_memnet_3side.py: 
+run_topic.py: side information is topic or side information with multiple values.
+

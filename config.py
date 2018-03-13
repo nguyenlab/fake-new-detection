@@ -1,0 +1,12 @@
+num_epochs= 200
+batch_size= 64
+dropout_keep_prob= 0.8
+word_embedding_size= 50
+num_hops = 2
+atention_size = 50
+learning_rate= 0.25 # 0.25
+seed = 123
+# filter_sizes= [2,3,4]
+# num_filters= 128
+# s_embedding_size = 128
+#state_size= 64
